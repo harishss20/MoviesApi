@@ -1,0 +1,5 @@
+.imgCss:hover {
+  color: red;
+  opacity: 0.25;
+  transition: all 0.3s;
+}
